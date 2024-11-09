@@ -36,7 +36,7 @@ function Navbar() {
                 {navitem}
             </ul>
             </div>
-            <a className="text-2xl font-bold cursor-pointer">bookStore</a>
+            <a className="text-2xl font-bold cursor-pointer">Chapter & Co</a>
         </div>
         <div className="navbar-end space-x-4">
             <div className="navbar-center hidden lg:flex">
